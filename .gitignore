@@ -1,1 +1,15 @@
 /node_modules
+/.svelte-kit
+/.DS_Store
+/.env
+/.env.local
+/.env.development
+/.env.production
+/.env.test
+/.env.development.local
+/.env.test.local
+/.env.production.local
+/.svelte-kit/output
+/.svelte-kit/output/client
+/.svelte-kit/output/server
+/.svelte-kit/output/server/app
