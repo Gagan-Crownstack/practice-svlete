@@ -1,4 +1,6 @@
 <script>
+  import { fade } from "svelte/transition";
+
   export let count = 5;
 </script>
 

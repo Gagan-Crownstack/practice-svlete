@@ -43,5 +43,9 @@
 	},
 	"keywords": [
 		"svelte"
-	]
+	],
+	"dependencies": {
+		"svelte-forms-lib": "^2.0.1",
+		"zod": "^3.25.67"
+	}
 }
